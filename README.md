@@ -1,2 +1,3 @@
-# Cat-Clicker-Knockout
-model,view,octopus
+# Cat-Clicker
+Model ,View ,Octopus
+
